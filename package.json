@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "run:watch": "tsx watch",
+    "watch": "tsx watch",
     "test": "jest --colors --maxWorkers=3"
   },
   "devDependencies": {
